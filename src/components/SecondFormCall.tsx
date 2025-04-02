@@ -65,7 +65,7 @@ function SecondFormCall() {
                 className="w-full bg-white text-emerald-700 py-4 px-6 rounded-lg hover:bg-emerald-50 transform hover:scale-105 duration-300 ease-in-out font-bold text-lg"
                 onClick={handleSubmit}
               >
-                Enviar Consulta
+                Te Llamamos Gratis
               </button>
             </form>
 
