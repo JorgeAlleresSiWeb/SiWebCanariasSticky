@@ -17,7 +17,7 @@ function App() {
   return (
     <div>
       <Nav />
-      <div className="pt-16">
+      <div>
         <Header />
         <main>
           <Transition type="fade-up" duration={1000} delay={50}>
