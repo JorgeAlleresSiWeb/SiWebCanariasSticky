@@ -5,17 +5,17 @@ function Reviews() {
     {
       id: 1,
       rating: 5,
-      comment: "Deseñaron a miña tenda en liña, concretamente Patricia. E non podería estar máis satisfeito. Todo foi moi fluído, sinxelo e profesional. Resultou mellor do que podía esperar. Teñen un trato próximo e resolven todas as túas dúbidas, axudándote durante todo o proceso. Moitas grazas por todo!",
+      comment: "Han diseñado mi tienda online, en concreto Patricia. Y no puedo estar más satisfecha. Todo ha sido muy fluido, sencillo y profesional. Ha quedado mejor de lo que podía esperar. Tienen un trato cercano y resuelven todas tus dudas ayudándote en todo el proceso. Muchas gracias por todo!",
     },
     {
       id: 2,
       rating: 5,
-      comment: "Traballar con Liliana do equipo de Siweb foi un auténtico pracer.  Ofrece un servizo e asistencia de primeiro nivel. Tomáronse o tempo para comprender as nosas necesidades e desenvolveron unha solución a medida que superou as nosas expectativas.  Atención excepcional.",
+      comment: "Trabajar con Liliana del equipo de Siweb ha sido un auténtico placer.  Ofrece un servicio y una asistencia de primera categoría. Se tomó el tiempo necesario para comprender nuestras necesidades  y desarrollaron una solución a medida que superó nuestras expectativas.  Una atención excepcional.",
     },
     {
       id: 3,
       rating: 5,
-      comment: "Estou encantada coa creación da miña web, grazas a Patricia Campelo que me guiou moi ben e soubo plasmar a idea que tiña para a miña web de xoias, resultou elegante, práctica e duradeira no tempo, Grazas Patricia!!",
+      comment: "Estoy encantada con la realización de mi página web ,gracias a Patricia Campelo que me guió muy bien y supo plasmar la idea qué yo tenía para la web de mi joyería, ha quedado elegante, práctica y duradera en el tiempo,Gracias Patricia‼️",
     }
   ];
 
